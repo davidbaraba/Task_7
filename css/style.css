@@ -1,3 +1,5 @@
+/* footer styles */
+/* gloabals */
 .d-inline {
 	display: inline-block;
 	vertical-align: middle;
@@ -9,6 +11,7 @@ footer {
 	color: #404040;
 }
 
+/* footer left side styles */
 .footer-left {
 	margin-right: 300px;
 }
@@ -44,6 +47,7 @@ footer h2 {
 	margin-top: 10px;
 }
 
+/* footer center section styles */
 .nav-links {
 	font-size: 15px;
 	line-height: 28px;
@@ -69,7 +73,7 @@ footer h2 {
 } 
 
 
-/* follow */
+/* footer follow styles */
 .follow {
 	margin-left: 100px;
 }
