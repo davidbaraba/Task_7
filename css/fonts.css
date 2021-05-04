@@ -26,12 +26,12 @@
 
 @font-face {
     font-family: 'Acumin Pro Light';
-    src: url('../fontsAcuminPro-Light.eot');
-    src: url('../fontsAcuminPro-Light.eot?#iefix') format('embedded-opentype'),
-        url('../fontsAcuminPro-Light.woff2') format('woff2'),
-        url('../fontsAcuminPro-Light.woff') format('woff'),
-        url('../fontsAcuminPro-Light.ttf') format('truetype'),
-        url('../fontsAcuminPro-Light.svg#AcuminPro-Light') format('svg');
+    src: url('../fonts/AcuminPro-Light.eot');
+    src: url('../fonts/AcuminPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AcuminPro-Light.woff2') format('woff2'),
+        url('../fonts/AcuminPro-Light.woff') format('woff'),
+        url('../fonts/AcuminPro-Light.ttf') format('truetype'),
+        url('../fonts/AcuminPro-Light.svg#AcuminPro-Light') format('svg');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
