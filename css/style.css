@@ -1,3 +1,4 @@
+
 .container-class{
 	width: 80%;
 	margin:0 auto;
@@ -69,6 +70,9 @@ vertical-align: middle;
 	font-family: 'acumin pro semibold';
 	color:#404040;
 }
+
+/* footer styles */
+/* gloabals */
 
 .d-inline {
 	display: inline-block;
@@ -167,4 +171,6 @@ footer h2 {
 	line-height: 28px;
 	letter-spacing: 0.5px;
 	color: #404040;
+
 }
+
