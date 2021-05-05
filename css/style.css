@@ -1,9 +1,7 @@
-
 .container-class{
-	width: 78%;
+	width: 80%;
 	margin:0 auto;
-	padding-top: 30px;
-	margin-bottom: 30px;
+	padding-top: 30px;  
 }
 .header-left h2 {
 	display: inline-block;
@@ -11,14 +9,17 @@
 	font-size:16px;
 	color:#404040;
 	font-family: 'acumin pro medium';
+	text-decoration: none;
 }
 .blog{
+	text-decoration: none;
 	color: #404040;
 }
 .nav-links-2 ul li{
 	display: inline-block;
 }
 .disc{
+	text-decoration: none;
 	font-size:16px;
 	font-family: 'acumin pro light';
 	color:#404040;
@@ -27,12 +28,26 @@
 	display: inline-block;
 }*/
 
+.header-left{
+	display: inline-block;
+
+}
+.ball-div{
+	vertical-align: middle;
+}
+.nav-links-2{
+	display: inline-block;
+}
+
 .ball-1 {
+	display: inline-block;
+	vertical-align: middle;
 	margin-right: 5px;
 	width: 10px;
 	height: 10px;
 	border-radius: 5px;
 	background-image:  linear-gradient(to right, #6294A2, #58C3DD);
+
 }
 .exp{
 	text-decoration: none;
@@ -40,9 +55,13 @@
 	color:#404040;
 	font-family: 'acumin pro';
 }
-
+.ball-div{
+	display: inline-block;
+}
 .nav-links-2{
-	margin-left: 700px;
+margin-left: 700px;
+display: inline-block;
+vertical-align: middle;
 }
 .home{
 	margin-right:30px;
@@ -54,7 +73,6 @@
 
 /* footer styles */
 /* gloabals */
-
 .d-inline {
 	display: inline-block;
 	vertical-align: middle;
@@ -152,6 +170,4 @@ footer h2 {
 	line-height: 28px;
 	letter-spacing: 0.5px;
 	color: #404040;
-
 }
-
