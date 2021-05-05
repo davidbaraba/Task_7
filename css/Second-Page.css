@@ -1,0 +1,271 @@
+
+body{
+	width: 80%;
+	margin:0 auto;
+}
+
+/*.header-left {
+	margin-right: 350px;
+}*/
+/*header {
+	padding: 35px 0;
+	background-color: #FCFCFC;
+	color: #404040;
+}*/
+/*.left {
+	width: 70%;
+	padding-top: 50px; 
+	padding-left: 50px;
+	display: inline-block;
+	background-color: #FCFCFC;
+}*/
+/*.navbar{
+	font-size: 15px;
+	line-height: 28px;
+	letter-spacing: 0.5px;
+	display: inline-block;
+	vertical-align: top;
+}*/
+
+.left-side{
+	display: inline-block;
+}
+.right-side{
+	display: inline-block;
+	margin-left: 100px;
+	vertical-align: top;
+}
+
+.second-page{
+	background-color: #FAFAFA;
+}
+.banner-1{
+	/*margin-left: 300px;
+	margin-right: 300px;*/
+	width: 100%;
+	
+}
+.container{
+	position: relative;
+}
+.featured{
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+/*	display: flex;
+	justify-content: center;*/
+
+}
+
+.pub-1{
+	display: inline-block;
+	margin-left: 150px;
+	margin-top:20px;
+	font-size: 10px;
+	font-family: acumin pro;
+	color:#F0F0F0;
+
+}
+.pub-2{
+	display: inline-block;
+	font-size: 10px;
+	font-family: acumin pro;
+	color:#F0F0F0;
+}
+h3{
+	font-size: 20px;
+	color:#F0F0F0;
+	font-family: acumin pro medium;
+display: flex;
+	justify-content: center;
+}
+.featured>p:nth-child(2){
+font-size:46px;
+font-family: acumin pro semibold;
+color:#F0F0F0;
+/*widows: 500px;*/
+}
+.explore{
+	font-size:46px;
+font-family: acumin pro semibold;
+color:#F0F0F0;
+width:588px;
+}
+.paragraph-div{
+	margin-left: 50px;
+}
+.paragraph{
+	font-size: 16px;
+	color:#404040;
+	font-family: acumin pro;
+
+}
+h4{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 32px;
+	color:#404040;
+	font-family: acumin pro semibold;
+}
+.land{
+	width: 1400px;
+	height: 216px;
+	margin-left: 35px;
+}
+.history{
+	margin-left: 50px;
+}
+h5{
+	font-size: 32px;
+	color:#404040;
+	font-family: acumin pro semibold;
+	padding-bottom: 15px;
+}
+/*.d-inline {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+footer {
+	padding: 35px 0;
+	background-color: #FCFCFC;
+	color: #404040;
+}
+
+/* footer left side styles */
+/*.footer-left {
+	margin-right: 350px;
+}
+
+.copyright {
+	opacity: 0.27;
+	margin-left: 20px;
+}
+
+.logo a {
+	font-size: 22px;
+	line-height: 30px;
+	letter-spacing: 1px;
+	color: #404040;
+	font-family: 'Acumin Pro Light';
+}
+
+.logo a span {
+	font-family: 'Acumin Pro Bold';
+}
+
+footer h2 {
+	display: block;
+	margin-top: 20px;
+	font-size: 16px;
+	font-family: 'Acumin Pro Medium';
+	line-height: 22px;
+	letter-spacing: 0.25px;
+}
+
+.footer-paragraph {
+	width: 376px;
+	margin-top: 10px;
+}*/
+
+/* footer center section styles */
+/*.nav-links {
+	font-size: 15px;
+	line-height: 28px;
+	letter-spacing: 0.5px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.navigation {
+	padding-right: 75px;
+	margin-right: 75px;
+	border-right: 1px solid rgba(166, 166, 166, 0.5);
+}
+
+.nav-links h3{
+	font-family: 'Acumin Pro SemiBold';
+} 
+
+.nav-links a{
+	font-family: 'Acumin Pro Light';
+	color: #404040;
+	display: block 
+} 
+*/
+
+/* footer follow styles */
+/*.follow {
+	margin-left: 150px;
+}
+
+.follow h3 {
+	font-size: 15px;
+	font-family: 'Acumin Pro SemiBold';
+	line-height: 28px;
+	letter-spacing: 0.5px;
+	margin-bottom: 7px;
+}
+
+.follow img {
+	opacity: 0.2;
+	margin-bottom: 12px;
+}
+
+.follow a {
+	font-size: 15px;
+	font-family: 'Acumin Pro Light';
+	line-height: 28px;
+	letter-spacing: 0.5px;
+	color: #404040;
+}*/
+.pic1{
+	margin-top: 20px;
+	padding-right: 20px;
+	margin-left: 50px;
+}
+	
+.informative{
+	display: inline-block;
+	width: 700px;
+	/*vertical-align: middle;*/
+}
+.portrait{
+	margin-top: 50px;
+}
+.author1{
+	font-size:15px;
+	color:#404040;
+	font-family: acumin pro medium;
+	opacity: 0.2;
+	}
+.name{
+	font-size:20px;
+	color:#404040;
+	font-family: acumin pro semibold;
+}
+.about{
+	padding-top:10px;
+	font-size:14px;
+	color:#404040;
+	font-family: acumin pro;
+
+}
+.follow-1{
+	font-size: 16px;
+	color:#404040;
+	font-family: acumin pro semibold;
+	padding-bottom: 10px;
+}
+.web{
+	font-size: 16px;
+	color:#404040;
+	font-family: acumin pro semibold;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.right-side img{
+	opacity: 0.2;
+	margin-bottom: 12px;
+}
