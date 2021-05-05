@@ -1,3 +1,58 @@
+.container-class{
+	width: 78%;
+	margin:0 auto;
+	padding-top: 30px;
+	margin-bottom: 30px;
+}
+.header-left h2 {
+	display: inline-block;
+	margin-left:40px;
+	font-size:16px;
+	color:#404040;
+	font-family: 'acumin pro medium';
+}
+.blog{
+	color: #404040;
+
+}
+.nav-links-2 ul li{
+	display: inline-block;
+}
+.disc{
+	font-size:16px;
+	font-family: 'acumin pro light';
+	color:#404040;
+}
+/*.blog1{
+	display: inline-block;
+}*/
+
+.ball-1 {
+	margin-right: 5px;
+	width: 10px;
+	height: 10px;
+	border-radius: 5px;
+	background-image:  linear-gradient(to right, #6294A2, #58C3DD);
+
+}
+.exp{
+	text-decoration: none;
+	font-size: 22px;
+	color:#404040;
+	font-family: 'acumin pro';
+}
+
+.nav-links-2{
+	margin-left: 700px;
+}
+.home{
+	margin-right:30px;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: 'acumin pro semibold';
+	color:#404040;
+}
+
 /* footer styles */
 /* gloabals */
 .d-inline {
