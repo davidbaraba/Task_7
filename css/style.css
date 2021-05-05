@@ -1,3 +1,4 @@
+
 .container-class{
 	width: 78%;
 	margin:0 auto;
@@ -13,7 +14,6 @@
 }
 .blog{
 	color: #404040;
-
 }
 .nav-links-2 ul li{
 	display: inline-block;
@@ -33,7 +33,6 @@
 	height: 10px;
 	border-radius: 5px;
 	background-image:  linear-gradient(to right, #6294A2, #58C3DD);
-
 }
 .exp{
 	text-decoration: none;
@@ -55,6 +54,7 @@
 
 /* footer styles */
 /* gloabals */
+
 .d-inline {
 	display: inline-block;
 	vertical-align: middle;
@@ -152,4 +152,6 @@ footer h2 {
 	line-height: 28px;
 	letter-spacing: 0.5px;
 	color: #404040;
+
 }
+
