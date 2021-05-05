@@ -8,7 +8,7 @@ h2 {
 	margin-left:40px;
 	font-size:16px;
 	color:#404040;
-	font-family: acumin pro medium;
+	font-family: 'acumin pro medium';
 	text-decoration: none;
 }
 .blog{
@@ -20,7 +20,7 @@ ul li{
 .disc{
 	text-decoration: none;
 	font-size:16px;
-	font-family: acumin pro light;
+	font-family: 'acumin pro light';
 	color:#404040;
 }
 /*.blog1{
@@ -52,7 +52,7 @@ ul li{
 	text-decoration: none;
 	font-size: 22px;
 	color:#404040;
-	font-family: acumin pro;
+	font-family: 'acumin pro';
 }
 .ball-div{
 	display: inline-block;
@@ -66,7 +66,7 @@ vertical-align: middle;
 	margin-right:30px;
 	text-decoration: none;
 	font-size: 16px;
-	font-family: acumin pro semibold;
+	font-family: 'acumin pro semibold';
 	color:#404040;
 }
 
