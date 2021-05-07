@@ -18,16 +18,18 @@
     margin-top: 54px;
 }
 .banner-image{
-    max-width: 50vw;
-    /* height: 100%; */
+    max-width: 860px;
+    width: 100%;
 }
 .text-block{
-    max-width: 30vw;
+    max-width: 550px;
+    width: 100%;
     display: inline-block;
     vertical-align: top;
     padding: 28px 0px 39px 54px;
     background-color: white;
     margin-left: -15px;
+    line-height: 1.4;
 }
 .text-block h1{
     font-size: 26px;
@@ -43,19 +45,19 @@
 }
 .postBox h5{
     font-family: 'Acumin Pro Medium';
-    font-size: 10px;
+    font-size: 13px;
     color: #707070;
     opacity: 24%;
     padding-bottom: 15px;
 }
 .postBox h3{
-    font-size: 15px;
+    font-size: 20px;
     font-family: 'Acumin Pro SemiBold';
     padding-bottom: 15px;
 }
 .postBox h4{
     font-family: 'Acumin Pro Light';
-    font-size: 12px;
+    font-size: 15px;
 }
 .postsDiv{
     padding-top: 80px;
@@ -82,7 +84,7 @@
     margin-bottom: 90px;
 }
 .articleBox h5{
-    background-color: #A6A6A6;
+    background-color: #FFFFFF;
     border-radius: 14px;
     padding: 10px 20px;
     top: 26px;
@@ -92,4 +94,7 @@
     color: #6F6F6F;
     font-size: 12px;
     font-family: 'Acumin Pro Bold';
+}
+.article-gray{
+    background-color: #A6A6A6!important;
 }
